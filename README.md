@@ -30,7 +30,7 @@
 ---
 
 ### 🚀 Proyek Terbaru & Showcase Otomatis
-[![](https://github-readme-stats.vercel.app/api/pin/?username=aripin-ilham&repo=lamaran-cuaca&theme=tokyonight)](https://github.com/aripin-ilham/nama-repo-1)  
+[![](https://github-readme-stats.vercel.app/api/pin/?username=aripin-ilham&repo=lamaran-cuaca&theme=tokyonight)](https://github.com/aripin-ilham/lamaran-cuaca)  
 [![](https://github-readme-stats.vercel.app/api/pin/?username=aripin-ilham&repo=nama-repo-2&theme=tokyonight)](https://github.com/aripin-ilham/nama-repo-2)
 
 > ✨ Ganti `nama-repo-1` dan `nama-repo-2` dengan nama repository terbaikmu
